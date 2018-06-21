@@ -1,0 +1,2 @@
+model_checkpoint_path: "Squeeze_netmod.ckpt"
+all_model_checkpoint_paths: "Squeeze_netmod.ckpt"
